@@ -1,0 +1,9 @@
+{
+    "name": "ValuableSpawnConfig",
+    "version_number": "1.0.0",
+    "website_url": "https://github.com/max-enterme/repo-mods",
+    "description": "Configure valuable spawn amounts per tier and rarity. Global and per-tier multipliers.",
+    "dependencies": [
+        "BepInEx-BepInExPack-5.4.2100"
+    ]
+}
