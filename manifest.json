@@ -1,6 +1,6 @@
 {
   "name": "ValuableSpawnConfig",
-  "version_number": "1.1.2",
+  "version_number": "1.1.3",
   "website_url": "https://github.com/maxe-repo-mods/ValuableSpawnConfig",
   "description": "Configure valuable spawn amounts per tier and rarity. Global and per-tier multipliers.",
   "dependencies": [
