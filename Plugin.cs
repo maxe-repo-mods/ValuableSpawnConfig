@@ -10,7 +10,7 @@ public class Plugin : BaseUnityPlugin
 {
     private const string PluginGuid = "maxenterme.ValuableSpawnConfig";
     private const string PluginName = "ValuableSpawnConfig";
-    private const string PluginVersion = "1.1.1";
+    private const string PluginVersion = "1.1.2";
 
     internal static Plugin Instance { get; private set; } = null!;
     internal new static ManualLogSource Logger => Instance._logger;
